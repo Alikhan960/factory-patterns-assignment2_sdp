@@ -1,7 +1,6 @@
 # Assignment #2 — Factory Method & Abstract Factory
 
-**Course:** ShP-2216 – Software Design Patterns (OP 6B06102)
-**Institution:** Astana IT University — School of Computer Engineering
+**Course:**  – Software Design Patterns 
 **Option chosen:** Option A — Logistics / Transport (Factory Method) extended into a cross-platform GUI toolkit (Abstract Factory)
 
 ## 1. What this repository contains
