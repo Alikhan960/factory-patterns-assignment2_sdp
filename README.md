@@ -115,4 +115,4 @@ excerpts. Summary:
 
 ## 6. Author
 
-Individual assignment — Astana IT University, ShP-2216.
+Individual assignment — Astana IT University Alikhan Yertaiuly SE-2504
